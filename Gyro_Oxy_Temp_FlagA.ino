@@ -1,8 +1,5 @@
 /*
-  Rui Santos
-  Complete project details at our blog: https://RandomNerdTutorials.com/esp32-data-logging-firebase-realtime-database/
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  Hel-Smart
 */
 
 #include <Arduino.h>
